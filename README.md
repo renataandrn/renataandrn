@@ -1,10 +1,3 @@
-<p align="center">
-  <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmk5Z3RwdjFua3A0Nm41bWlieHNkdzNrMm4yeDBiNjQ1N2VsOXppciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uqe7fb2xV4d68/giphy.gif"
-    width="300"
-    alt="Pink aesthetic GIF"
-  />
-</p>
 
 # Hi, I'm Ren! 
 
